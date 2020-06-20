@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int removeElement(ArrayList<Integer> a, int b) {
         int i,a1,n;
