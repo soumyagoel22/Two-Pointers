@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int diffPossible(ArrayList<Integer> a, int b) {
         // int i,n,j,diff;
