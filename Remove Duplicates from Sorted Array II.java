@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int removeDuplicates(ArrayList<Integer> a) {
         int i,n,c=0,c1=0;
