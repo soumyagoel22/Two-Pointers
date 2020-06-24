@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int maxArea(ArrayList<Integer> a) {
         if(a.size() <2 || a == null)
