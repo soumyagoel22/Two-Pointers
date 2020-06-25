@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public int minimize(final List<Integer> a, final List<Integer> b, final List<Integer> c){
