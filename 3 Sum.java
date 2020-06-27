@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int threeSumClosest(ArrayList<Integer> A, int B) {
          int res = 0, diff = Integer.MAX_VALUE;
